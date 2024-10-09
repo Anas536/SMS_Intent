@@ -127,6 +127,14 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 
+
+
+
+
+
+
+
+
 ## OUTPUT:
 
 ![Output(1)](https://github.com/user-attachments/assets/87985ed7-7247-4d2b-994f-d5299372ca34)
